@@ -6,7 +6,7 @@ import numpy as np
 
 from constants import *
 
-# --- PYGAME SETUP ---
+# --- PYGAME SETUP ----
 
 pygame.init()
 screen = pygame.display.set_mode( (WIDTH, HEIGHT) )
